@@ -104,7 +104,7 @@ def file_union():
 File_txt=file_union()
 Mail=mail(					#	CREAZIONE MAIL (fromaddress, password, toaddress, subject, body, filename, dirpath)
 "radon@majoranaorvieto.org",			#	INDIRIZZO MITTENTE
-"210radon86",					#	PASSWORD MITTENTE
+"********",					#	PASSWORD MITTENTE
 "os19_radon@majoranaorvieto.org", 	#	INDIRIZZO DESTINATARIO
 "RADON - RILEVAZIONE",						#	OGGETTO
 						#	CORPO
