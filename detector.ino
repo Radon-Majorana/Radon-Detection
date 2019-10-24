@@ -1,6 +1,5 @@
-//LINUXDAYY
+//LINUXDAY Update
 
-#define pin_temp A0
 int schermo1=1;
 int schermo2=2;
 int schermo3=3;
